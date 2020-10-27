@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Inbreath"
-summary: "Invertebrate-bacterial associations as catalysts of nitrogen cycling and seagrass ecosystems health"
+title: "Codirnet"
+summary: "Coral Disease Research Network"
 authors: []
-tags: ["Seagrass", "Nitrogen", "Symbioses", "Microbiome"]
-categories: ["Research"]
-date: 2020-10-27T18:43:01+01:00
+tags: ["Corals"]
+categories: []
+date: 2020-10-27T22:01:58+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
- This is a test
