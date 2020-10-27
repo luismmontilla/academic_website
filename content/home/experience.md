@@ -4,7 +4,7 @@
 widget: experience
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Timeline
 subtitle:
 
 # Date format
@@ -25,22 +25,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
+- company: Marine Symbiomes Research group. Stazione Zoologica Anton Dohrn
   company_url: ""
   date_end: ""
   date_start: "2017-01-01"
   description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
+# Responsibilities include:
+# * Analysing
+# * Modelling
+# * Deploying
+  location: Naples, Italy
+  title: Ph.D. Student
+- company: Laboratory of Experimental Ecology, Simón Bolívar University
   company_url: ""
   date_end: "2016-12-31"
   date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+#  description: Taught electronic engineering and researched semiconductor physics.
+  location: Caracas, Venezuela
+  title: Master's student
 ---

@@ -1,23 +1,11 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
 organizations:
 - name: Marine Symbiomes Research Group, Stazione Zoologica Anton Dohrn
   url: http://www.marinesymbiomes.eu/
@@ -57,4 +45,6 @@ I’m a marine ecologist pursuing my Ph.D. at Stazione Zoologica Anton Dohrn as 
 
 Here you will find my links to my publications, academic social networks, side projects, and occasional blog posts. Feel free to contact me in case of any inquiry!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
+
+{{< figure library="true" src="GOPR1273.JPG" title= "Part of the Marine Symbiomes Research group. Ischia, 2020" >}}
