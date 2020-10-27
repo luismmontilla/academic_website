@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Coral reefs in Venezuela"
-summary: ""
+title: "COVID-19: Number of new cases in Italy"
+summary: "Shiny app"
 authors: []
-tags: ["Corals"]
+tags: ["R"]
 categories: []
-date: 2020-10-27T22:41:37+01:00
+date: 2020-10-27T23:00:39+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://lumimoto.shinyapps.io/covid-19-ita/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
