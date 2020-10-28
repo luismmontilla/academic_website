@@ -11,9 +11,9 @@ organizations:
   url: http://www.marinesymbiomes.eu/
 role: Ph.D. Student
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: /#contact
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7079-6775
