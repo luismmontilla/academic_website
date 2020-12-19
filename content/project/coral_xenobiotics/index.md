@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Effect of different xenobiotics on coral health"
-summary: ""
+title: "CorDiX"
+summary: "Interactions between coral diseases and xenobiotics"
 authors: []
 tags: ["Corals"]
 categories: []

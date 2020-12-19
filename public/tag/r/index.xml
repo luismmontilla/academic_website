@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Luis M. Montilla&#39;s academic website</title>
+    <link>https://luismmontilla.com/tag/r/</link>
+      <atom:link href="https://luismmontilla.com/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 23:00:39 +0100</lastBuildDate>
+    <image>
+      <url>https://luismmontilla.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>https://luismmontilla.com/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19: Number of new cases in Italy</title>
+      <link>https://luismmontilla.com/project/covid19_it/</link>
+      <pubDate>Tue, 27 Oct 2020 23:00:39 +0100</pubDate>
+      <guid>https://luismmontilla.com/project/covid19_it/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
