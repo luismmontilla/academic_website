@@ -5,7 +5,7 @@ title: "Field campaign in Ischia!"
 subtitle: ""
 summary: ""
 authors: [Montilla, LM]
-tags: ["Seagrass", "SciComm"]
+tags: ["Seagrass", "SciComm", "Fieldwork"]
 categories: ["SciComm"]
 date: 2020-11-27T18:20:55+01:00
 lastmod: 2020-11-27T18:20:55+01:00

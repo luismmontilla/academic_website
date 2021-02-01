@@ -5,7 +5,7 @@ title: "[In Spanish] Descubriendo las bestias de la Venezuela prehistórica"
 subtitle: "Publicado en [Revista Persea](https://revistapersea.com)"
 summary: ""
 authors: [Montilla, LM]
-tags: ["Dinosaurs", "SciComm"]
+tags: ["Dinosaurs", "SciComm", "Spanish"]
 categories: ["SciComm"]
 date: 2017-10-08
 lastmod: 2019-09-09T19:18:33-04:00
