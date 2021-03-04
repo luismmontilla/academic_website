@@ -3,8 +3,8 @@ title: Building a network of invertebrate-microbe associations from seagrass bed
 author: ~
 date: '2021-03-04'
 slug: []
-categories: ["Talks"]
-tags: ["Seagrass", "R", "Symbiosis", "Networks"]
+categories: []
+tags: ["Seagrasses", "R", "Symbiosis", "Networks", "Talks"]
 subtitle: ''
 summary: ''
 authors: [Montilla, LM]
