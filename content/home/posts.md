@@ -38,6 +38,10 @@ subtitle = ""
 [[content.filter_button]]
    name = "Español"
    tag = "Spanish"
+   
+[[content.filter_button]]
+   name = "Talks"
+   tag = "Talks"
   
 
 
