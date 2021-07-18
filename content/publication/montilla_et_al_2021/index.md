@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Data in Brief"
 publication_short: ""
 
-abstract: ""
+abstract: "This dataset contains 2850 photographs of the seafloor in coral communities from Venezuela that were taken during 2017 and 2018. We used a hierarchical experimental design with four random factors representing four different spatial scales: (1) region (hundreds of kilometers), (2) localities (tens of kilometers), (2) reef sites (hundreds of meters) and (3) transects (a couple meters) across the Venezuelan coast. At each site, four 30-m transects were deployed parallel to the coastline, and 15 pictures were taken every other meter at each transect, containing an area of at least 80 × 90cm with enough resolution to identify benthic groups. This dataset covers spatial scales from a few meters to hundreds of kilometers; marine protected areas, and non-protected areas; coastal zones, continental and oceanic islands. These images have the potential to be further used for training researchers in benthic organisms identification, and training artificial intelligence classification algorithms. Also, they represent and updated baseline to perform spatial and temporal comparisons in Venezuela or further studies involving multiple spatial scales in the region."
 
 # Summary. An optional shortened abstract.
 summary: ""
